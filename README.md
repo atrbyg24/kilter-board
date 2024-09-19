@@ -34,4 +34,4 @@ https://climbdex.fly.dev/
 https://github.com/lemeryfertitta/Climbdex
 
 Climbs look like the following:
-[alt text](https://github.com/atrbyg24/kilter-board/blob/main/6a-V3-1.png?raw=true)
+![7b-V8-1](https://github.com/user-attachments/assets/f948981f-6f7f-4b54-870a-4787217ce46f)
