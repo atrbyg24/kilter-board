@@ -32,3 +32,6 @@ Data for this project can be found at:
 https://climbdex.fly.dev/
 
 https://github.com/lemeryfertitta/Climbdex
+
+Climbs look like the following:
+[alt text](https://github.com/atrbyg24/kilter-board/blob/main/6a-V3-1.png?raw=true)
